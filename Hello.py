@@ -1,4 +1,5 @@
-
+#!usr/bin/python
+# -*- coding: utf-8 -*-
 a=3
 print(a)
-print("呵呵哈哈哈或")
+print("哈哈")
